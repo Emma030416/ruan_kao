@@ -7,10 +7,10 @@
 >其中设计模式去网盘看文件，很全了
 >这里只放几张图作为总结
 
-![描述](./img/25.png)
+![描述](Object-Oriented/img/25.png)
 
-![描述](./img/26.png)
+![描述](Object-Oriented/img/26.png)
 
-![描述](./img/27.png)
+![描述](Object-Oriented/img/27.png)
 
-![描述](./img/28.png)
+![描述](Object-Oriented/img/28.png)
