@@ -9,14 +9,14 @@
 
 创新型
 ![描述](Object-Oriented/img/25.png)
-
+<br><br>
 结构型
 ![描述](Object-Oriented/img/26.png)
-
+<br><br>
 行为型
 ![描述](Object-Oriented/img/27.png)
 
 ![描述](Object-Oriented/img/28.png)
-
+<br><br>
 小总结
 ![描述](Object-Oriented/img/29.png)
